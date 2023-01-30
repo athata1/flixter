@@ -22,10 +22,6 @@ The following **optional** features are implemented:
 - [ ] User implements a collection view
 - [ ] User implemenets tab bar controller with at least two screens
 
-The following **additional** features are implemented:
-
-- [ ] Allow users to find local movie theaters playing this movie
-
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
