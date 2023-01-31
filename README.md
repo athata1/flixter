@@ -40,3 +40,5 @@ GIF created with "Record it" and "MP4 to GIF Converter"
 Describe any challenges encountered while building the app.
 - AutoLayout design
 - Getting text to stay on screen within view
+
+Credit to The Movie DB for providing the database and apis required for this application to work
